@@ -5,7 +5,7 @@ Highly competent with a strong foundation in developing
 websites, and managing databases. Eager to be challenged
 to grow and further improve IT skills.
 - Full Stack Developer (MERN). <br />
-# Interests:
+### Interests:
   - Travelling
   - Reading
 ## Socials:
