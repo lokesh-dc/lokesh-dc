@@ -9,7 +9,8 @@ to grow and further improve IT skills.
   - Travelling
   - Reading
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-dc) <br />
+Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-dc) <br />
+
 Reach me on <a href="mailto:lokesh.cdewanand@gmail.com"> lokesh.cdewanand@gmail.com </a> <br />
 
 
