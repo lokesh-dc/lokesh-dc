@@ -3,8 +3,8 @@
 Highly competent with a strong foundation in developing
 websites, and managing databases. Eager to be challenged
 to grow and further improve IT skills.
-- Full Stack Developer (MERN). <br />
-- <a target="_blank" href="https://lokesh-dc.github.io/"> Visit my Portfolio here </a>
+- Aspiring Full Stack Developer (MERN). <br />
+<a target="_blank" href="https://lokesh-dc.github.io/"> Visit my Portfolio here </a>
 ### Interests:
   - Travelling
   - Reading
