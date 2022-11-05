@@ -1,4 +1,7 @@
-# Hi, I'm Lokesh Dewanand Choudhary 
+
+
+
+# Hello, I'm Lokesh Dewanand Choudhary 
 ## About me
 Highly competent with a strong foundation in developing
 websites, and managing databases. Eager to be challenged
@@ -27,9 +30,9 @@ Reach me on <a href="mailto:lokesh.cdewanand@gmail.com"> lokesh.cdewanand@gmail.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # Statistics :
-![](https://github-readme-stats.vercel.app/api?username=lokesh-dc&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br />
+![](https://github-readme-stats.vercel.app/api?username=lokesh-dc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lokesh-dc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-dc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
+
 
 # Profile : <br/>
 [![](https://visitcount.itsvg.in/api?id=lokesh-dc&icon=0&color=0)](https://visitcount.itsvg.in)
