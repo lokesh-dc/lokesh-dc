@@ -1,7 +1,6 @@
 
-
-
 # Hello, I'm Lokesh Dewanand Choudhary 
+[![](https://visitcount.itsvg.in/api?id=lokesh-dc&icon=0&color=0)](https://visitcount.itsvg.in)
 ## About me
 Highly competent with a strong foundation in developing
 websites, and managing databases. Eager to be challenged
@@ -35,7 +34,7 @@ Reach me on <a href="mailto:lokesh.cdewanand@gmail.com"> lokesh.cdewanand@gmail.
 
 
 # Profile : <br/>
-[![](https://visitcount.itsvg.in/api?id=lokesh-dc&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <br/>
 <a href="https://github.com/lokesh-dc/github-readme-activity-graph">
   <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lokesh-dc&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
