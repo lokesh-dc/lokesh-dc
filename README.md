@@ -32,11 +32,11 @@ Reach me on <a href="mailto:lokesh.cdewanand@gmail.com"> lokesh.cdewanand@gmail.
 ![](https://github-readme-stats.vercel.app/api?username=lokesh-dc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lokesh-dc&theme=dark&hide_border=false)<br/>
 
-
+<!-- 
 # Profile : <br/>
 
 <br/>
 <a href="https://github.com/lokesh-dc/github-readme-activity-graph">
   <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lokesh-dc&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
-<br/>
+<br/> -->
